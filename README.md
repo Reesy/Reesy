@@ -2,17 +2,21 @@
 
 I'm James/Jim, a Full Stack software developer from the south of Wales. I enjoy all sorts of programming but professionally experienced with Full stack and a bit of dev-ops.
 
-I spend a big chunk of my time learning, whether it's about rockets, science or languages. &nbsp; <img src="Flag_of_Japan.svg.png"
+I spend a big chunk of my time learning, whether it's about rockets, science or languages. &nbsp; 
+
+<img src="Flag_of_Japan.svg.png"
      alt="Learning Japanese"
-     style="width:25px;height:15px; " />日本語を勉強しています！　<img src="Flag_of_Wales.svg"
+     style="width:25px;height:15px; " />日本語を勉強しています！　
+<img src="Flag_of_Wales.svg"
      alt="Learning Welsh"
      style="width:25px;height:15px; " />Dw i'n dysgu Cymraeg! 
 
-I see software developers as generalists, we have real power to solve problems in our day to day lives. Whether it's making a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind youself to make tea! 
+I see software developers as generalists, we have real power to solve problems in our day to day lives. <br>
+Options are limitless, like making a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind myself to make tea! 
 
 
 
-### Projects I think are neat:
+# Projects I think are neat:
 
 
 |  Name                                         |  Description                                                |  Demo?              |          
@@ -23,7 +27,7 @@ I see software developers as generalists, we have real power to solve problems i
 
 
 
-### Live demos:
+# Live demos:
 
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
@@ -31,7 +35,7 @@ I see software developers as generalists, we have real power to solve problems i
 | TkyoSpaghetti - side scroller game            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
 
 
-### Template Projects:
+# Template Projects:
 
 I probably take DRY/YAGNI a bit too seriously, so I tend to make templates for every bit of new tech I work on. 
 Feel free to use any of these templates however you see fit: 
