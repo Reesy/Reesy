@@ -6,10 +6,10 @@ I spend a big chunk of my time learning, whether it's about rockets, science or 
 
 <img src="Flag_of_Japan.svg.png"
      alt="Learning Japanese"
-     style="width:25px;height:15px; " />日本語を勉強しています！　
+     style="width:25px;height:15px; " /> 日本語を勉強しています！　
 <img src="Flag_of_Wales.svg"
      alt="Learning Welsh"
-     style="width:25px;height:15px; " />Dw i'n dysgu Cymraeg! 
+     style="width:25px;height:15px; " /> Dw i'n dysgu Cymraeg! 
 
 I see software developers as generalists, we have real power to solve problems in our day to day lives. <br>
 Options are limitless, like making a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind myself to make tea! 
@@ -44,6 +44,7 @@ Feel free to use any of these templates however you see fit:
 | --------------------------------------------- | -----------------------------------------------------------    | ------------------- |
 | [sdl2-emscripten-project-template](https://github.com/Reesy/sdl2-emscripten-project-template) | C++/SDL2/Emscripten project with a window and a bouncing ball  |          -          | 
 | [ts-express-tdd-template](https://github.com/Reesy/ts-express-tdd-template) | NodeJS/Express/SuperTest Back-end project using REST |      -     |  
+| [ts-express-mongodb-template](https://github.com/Reesy/ts-express-tdd-mongodb-template) | NodeJS/Express/SuperTest/MongoDB CRUD example with Jenkins for CI/CD | - |
 | [ts-react-grid-template](https://github.com/Reesy/ts-react-grid-template)   | React/Typescript/React-grid-layout                   |      -     |
 
 
