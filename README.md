@@ -32,6 +32,7 @@ Options are limitless, like making a [silly movie app](https://github.com/Reesy/
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
 | [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+| [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
 
 
 # Template Projects:
@@ -45,6 +46,7 @@ Feel free to use any of these templates however you see fit:
 | [sdl2-emscripten-project-template](https://github.com/Reesy/sdl2-emscripten-project-template) | C++/SDL2/Emscripten project with a window and a bouncing ball  |          -          | 
 | [ts-express-tdd-template](https://github.com/Reesy/ts-express-tdd-template) | NodeJS/Express/SuperTest Back-end project using REST |      -     |  
 | [ts-express-mongodb-template](https://github.com/Reesy/ts-express-tdd-mongodb-template) | NodeJS/Express/SuperTest/MongoDB CRUD example with Jenkins for CI/CD | - |
+| [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
 | [ts-react-grid-template](https://github.com/Reesy/ts-react-grid-template)   | React/Typescript/React-grid-layout                   |      -     |
 
 
