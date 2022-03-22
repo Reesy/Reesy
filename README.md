@@ -49,6 +49,12 @@ Feel free to use any of these templates however you see fit:
 
 
 
+# NodeJS projects:
+
+| Name | Description | Demo? | 
+| ---- | ----------- | ----- |
+|[cronjob-toast-requester](https://github.com/Reesy/cronjob-toast-requester)  | Creates OS level notifications, can be push based or cron based |    -   |
+
 
 
 <!--
