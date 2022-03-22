@@ -21,8 +21,8 @@ Options are limitless, like making a [silly movie app](https://github.com/Reesy/
 
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
-| Responsive Interaction in Virtual Reality     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
-| TkyoSpaghetti - side scroller game            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+| [Responsive Interaction in Virtual Reality](https://github.com/Reesy/responsive-interaction-virtual-reality)     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
+| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
 
 
 
@@ -31,8 +31,7 @@ Options are limitless, like making a [silly movie app](https://github.com/Reesy/
 
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
-| Responsive Interaction in Virtual Reality     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
-| TkyoSpaghetti - side scroller game            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
 
 
 # Template Projects:
@@ -41,10 +40,10 @@ I probably take DRY/YAGNI a bit too seriously, so I tend to make templates for e
 Feel free to use any of these templates however you see fit: 
 
 
-|  Name                                         |  Description                                                |  Demo?              |          
-| --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
-| Responsive Interaction in Virtual Reality     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
-| TkyoSpaghetti - side scroller game            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+|  Name                                         |  Description                                                   |  Demo?              |          
+| --------------------------------------------- | -----------------------------------------------------------    | ------------------- |
+| [sdl2-emscripten-project-template](https://github.com/Reesy/sdl2-emscripten-project-template) | C++/SDL2/Emscripten project with a window and a bouncing ball  |          -          | 
+
 
 
 
