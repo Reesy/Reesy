@@ -11,8 +11,7 @@ I spend a big chunk of my time learning, whether it's about rockets, science or 
      alt="Learning Welsh"
      style="width:25px;height:15px; " /> Dw i'n dysgu Cymraeg! 
 
-I see software developers as generalists, we have real power to solve problems in our day to day lives. <br>
-Options are limitless, like making a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind myself to make tea! 
+I see software developers as generalists, we have real power to solve problems in our day to day lives. For example, a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind myself to make tea! 
 
 
 
