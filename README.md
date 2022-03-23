@@ -57,7 +57,7 @@ I find it useful to build up something from the very basics in a project before 
 
 | Name                                  | Description        |
 | ------------------------------------- | ------------------ |
-| [java-compilation-reference](https://github.com/Reesy/java-compilation-reference)  | Examples of basic compilation patterns (using cli & ANT )   |
+| [java-compilation-reference](https://github.com/Reesy/java-compilation-reference)  | Java compilation examples (using cli & ANT )   |
 
 
 
