@@ -49,6 +49,15 @@ Feel free to use any of these templates however you see fit:
 | [ts-react-grid-template](https://github.com/Reesy/ts-react-grid-template)   | React/Typescript/React-grid-layout                   |      -     |
 
 
+# Reference Projects: 
+
+These projects are purely for reference they are more for my benefit but I hope you find them useful too!
+
+I find it useful to build up something from the very basics in a project before working on them in another (I have a terrible memory!)
+
+| Name                                  | Description        |
+| ------------------------------------- | ------------------ |
+| [java-compilation-reference](https://github.com/Reesy/java-compilation-reference)  | Examples of basic compilation patterns (using cli & ANT )   |
 
 
 
