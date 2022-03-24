@@ -62,11 +62,12 @@ I find it useful to build up something from the very basics in a project before 
 
 
 
-# NodeJS projects:
+# Other projects:
 
-| Name | Description | Demo? | 
+| Name | Description | Technologies used | 
 | ---- | ----------- | ----- |
-|[cronjob-toast-requester](https://github.com/Reesy/cronjob-toast-requester)  | Creates OS level notifications, can be push based or cron based |    -   |
+|[cronjob-toast-requester](https://github.com/Reesy/cronjob-toast-requester)  | Creates OS level notifications, can be push based or cron based | Node, Typescript, Express, SuperTest, Mocha, Chai   |
+|[angular-typescript-blog](https://github.com/Reesy/angular-typescript-blog)  | A simple CRUD/BLOG single page app _defunct project_  | AngularJS (~1.2), Typescript (pre @types) Mongodb, Node     | 
 
 
 
