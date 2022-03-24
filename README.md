@@ -69,6 +69,7 @@ I find it useful to build up something from the very basics in a project before 
 |[cronjob-toast-requester](https://github.com/Reesy/cronjob-toast-requester)  | Creates OS level notifications, can be push based or cron based | Node, Typescript, Express, SuperTest, Mocha, Chai   |
 |[angular-typescript-blog](https://github.com/Reesy/angular-typescript-blog)  | A simple CRUD/BLOG single page app _defunct project_  | AngularJS (~1.2), Typescript (pre @types) Mongodb, Node     | 
 |[native-java-backend](https://github.com/Reesy/native-java-backend) | A REST API using the native Java http package | Java, Ant (for compiling)  |
+|[native-java-api-requester](https://github.com/Reesy/native-java-api-requester) | A REST client using native Java packages | Java, Ant (for compiling) |
 
 
 
