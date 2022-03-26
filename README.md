@@ -21,7 +21,7 @@ I see software developers as generalists, we have real power to solve problems i
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
 | [Responsive Interaction in Virtual Reality](https://github.com/Reesy/responsive-interaction-virtual-reality)     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
-| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti/tkyospaghetti.html) |
 
 
 
@@ -30,9 +30,9 @@ I see software developers as generalists, we have real power to solve problems i
 
 |  Name                                         |  Description                                                |  Demo?              |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
-| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti.html) |
+| [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti/tkyospaghetti.html) |
 | [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
-| [sdl-rpg-battle-system](https://github.com/Reesy/sdl-rpg-battle-system) | C++/SDL2 - Built with emscripten     |  [Click me!](https://jim.wales/rpg.html)     |
+| [sdl-rpg-battle-system](https://github.com/Reesy/sdl-rpg-battle-system) | C++/SDL2 - Built with emscripten     |  [Click me!](https://jim.wales/rpg/rpg.html)     |
 
 # Template Projects:
 
