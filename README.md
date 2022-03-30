@@ -22,6 +22,7 @@ I see software developers as generalists, we have real power to solve problems i
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
 | [Responsive Interaction in Virtual Reality](https://github.com/Reesy/responsive-interaction-virtual-reality)     | C++/OpenGL/Arduino, game engine with haptic feedback glove  |          -          | 
 | [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti) |
+| [Tridents of ardeus - Tile map example game](https://github.com/Reesy/sdl-tridents-of-ardeus) | C++/SDL2/Emscripten test bed for composition over inheritence | [Click me!](https://jim.wales/tridents-of-ardeus/) |
 
 
 
