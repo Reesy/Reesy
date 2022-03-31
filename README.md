@@ -13,9 +13,13 @@ I spend a big chunk of my time learning, whether it's about rockets, science or 
 
 I see software developers as generalists, we have real power to solve problems in our day to day lives. For example, a [silly movie app](https://github.com/Reesy/react-experiment-video-player) so I can group watch home movies with my partner in Japan, or creating a networked [OS based toast announcer](https://github.com/Reesy/cronjob-toast-requester) to remind myself to make tea! 
 
+# Currently working on 
 
+| Name     | Description    |    Demo?    |
+| -------- | -------------- | ----------- |
+| [React-experiment-video-player](https://github.com/Reesy/react-experiment-video-player) | React, express, node, websocket project for allowing of group watching of home content _Currently refactoring for a guide_ | - |
 
-# Projects I think are neat:
+# Projects I think are interesting:
 
 
 |  Name                                         |  Description                                                |  Demo?              |          
@@ -29,7 +33,7 @@ I see software developers as generalists, we have real power to solve problems i
 
 # Live demos:
 
-|  Name                                         |  Description                                                |  Demo?              |          
+|  Name                                         |  Description                                                |  Demo               |          
 | --------------------------------------------- | ----------------------------------------------------------- | ------------------- |
 | [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti) |
 | [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
