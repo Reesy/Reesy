@@ -38,6 +38,7 @@ I see software developers as generalists, we have real power to solve problems i
 | [TkyoSpaghetti - side scroller game](https://github.com/Reesy/tkyo-spaghetti)            | C++/SDL2 - Built for web using Emscripten/WASM              | [Click me!](https://jim.wales/tkyospaghetti) |
 | [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
 | [sdl-rpg-battle-system](https://github.com/Reesy/sdl-rpg-battle-system) | C++/SDL2 - Built with emscripten     |  [Click me!](https://jim.wales/rpg)     |
+| [code-challenge-tiles](https://github.com/Reesy/code-challenge-tiles) | A CSS code challenge using React    | [Click me!](https://codechallengetiles.jim.wales/) |
 
 # Template Projects:
 
@@ -75,6 +76,7 @@ I find it useful to build up something from the very basics in a project before 
 |[angular-typescript-blog](https://github.com/Reesy/angular-typescript-blog)  | A simple CRUD/BLOG single page app _defunct project_  | AngularJS (~1.2), Typescript (pre @types) Mongodb, Node     | 
 |[native-java-backend](https://github.com/Reesy/native-java-backend) | A REST API using the native Java http package | Java, Ant (for compiling)  |
 |[native-java-api-requester](https://github.com/Reesy/native-java-api-requester) | A REST client using native Java packages | Java, Ant (for compiling) |
+|[code-challenge-rewards](https://github.com/Reesy/code-challenge-rewards) | REST API for redeeming rewards for a code challenge, showing TDD | Node, Express, Supertest, Typescript | 
 
 
 
