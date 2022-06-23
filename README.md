@@ -18,6 +18,7 @@ I see software developers as generalists, we have real power to solve problems i
 | Name     | Description    |    Demo?    |
 | -------- | -------------- | ----------- |
 | [React-experiment-video-player](https://github.com/Reesy/react-experiment-video-player) | React, express, node, websocket project for allowing of group watching of home content _Currently refactoring for a guide_ | - |
+| [Kanji-sentence-grabber](https://github.com/Reesy/kanji-sentence-grabber) | NodeJS/express API for finding Japanese sentences | -  |
 
 # Projects I think are interesting:
 
