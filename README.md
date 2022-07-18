@@ -19,7 +19,7 @@ I see software developers as generalists, we have real power to solve problems i
 | -------- | -------------- | ----------- |
 | [React-experiment-video-player](https://github.com/Reesy/react-experiment-video-player) | React, express, node, websocket project for allowing of group watching of home content _Currently refactoring for a guide_ | - |
 | [Kanji-sentence-grabber](https://github.com/Reesy/kanji-sentence-grabber) | NodeJS/express API for finding Japanese sentences | -  |
-| [ts-react-socket-docker](https://github.com/Reesy/ts-react-socket-docker) | NodeJS and React websocket based chat app | - | 
+| [ts-react-socket-docker](https://github.com/Reesy/ts-react-socket-docker) | NodeJS and React websocket based chat app | [Click me!](https://chat.jim.wales) | 
 
 # Projects I think are interesting:
 
@@ -41,6 +41,7 @@ I see software developers as generalists, we have real power to solve problems i
 | [ts-express-tdd-docker-nginx-template](https://github.com/Reesy/ts-express-tdd-docker-nginx) | Nginx/docker-compose wrapped NodeJS/React app | [Click me!](http://ex1.jim.wales/) |
 | [sdl-rpg-battle-system](https://github.com/Reesy/sdl-rpg-battle-system) | C++/SDL2 - Built with emscripten     |  [Click me!](https://jim.wales/rpg)     |
 | [code-challenge-tiles](https://github.com/Reesy/code-challenge-tiles) | A CSS code challenge using React    | [Click me!](https://codechallengetiles.jim.wales/) |
+| [ts-react-socket-docker](https://github.com/Reesy/ts-react-socket-docker) | NodeJS and React websocket based chat app | [Click me!](https://chat.jim.wales) | 
 
 # Template Projects:
 
